@@ -15,13 +15,17 @@ Cílovou skupinou jsou menálně vyspělí čtenáři v ideálním věku nad 18 
 Cílem webu je seznámit čtenáře s celoživotním dílem amerického spisovatele, filozofa, učence a experimentátora Terence McKenny. Hlavním tématem prostupujícím jeho práci je snaha formovat mysl čtenářů k soustředění na aktuální osobní zkušenost. Upozorňuje na to, že značná část naší osobnosti není ani zdaleka formovaná osobní zkušeností jedince ale různými myšlenkovými strukturami a ideologiemi kterm podřizujeme svoje subjektivní vnímání a které nesmírně omezují potenciál naší osobnosti. Jako hlavní nástroj v procesu obrození skutečné individuality a svobody myšlení viděl McKenna psychedelické látky, především pak psylocibinové houby, které umožňují mentálně uniknout od již vybudovaných mentálních struktur a položit základ novému paradigmatu vnímání reality kolem nás. 
 
 **Zdroje:**
+
   * Tištěné: 
+
     * MCKENNA, Terence: Pravdivé halucinace : zpráva o výjimečném dobrodružství v ďáblově ráji
     * MCKENNA, Terence: Návrat archaismu : spekulace o psychedelických houbách, Amazonii, virtuální realitě, UFO, evoluci, šamanismu, znovuzrození Bohyně a konci historie
     * MCKENNA, Terence: Pokrm bohů
     * MCKENNA, Terence a Dennis MCKENNA: Neviditelná Krajina
     * MCKENNA, Terence, Ralph ABRAHAM a Rupert SHELDRAKE: Trialogy na hranicích Západu
+
   * Webové:
+
     * [https://www.goodreads.com/author/quotes/9243.Terence_McKenna?page=2](https://www.goodreads.com/author/quotes/9243.Terence_McKenna?page=2)
     * [https://www.facebook.com/Terence-McKenna-16685330254/](https://www.facebook.com/Terence-McKenna-16685330254/)
     * [http://www.terencemckenna.com/tmbib/](http://www.terencemckenna.com/tmbib/)
@@ -30,6 +34,7 @@ Cílem webu je seznámit čtenáře s celoživotním dílem amerického spisovat
     * [http://deoxy.org/mckenna.htm](http://deoxy.org/mckenna.html)
 
 **Multimedia:**
+
   * [https://www.youtube.com/channel/UCkSH88oT4dDl3aZQZKM_BIw](https://www.youtube.com/channel/UCkSH88oT4dDl3aZQZKM_BIw)
   * [https://www.youtube.com/user/azzurevision](https://www.youtube.com/user/azzurevision)
   * [https://www.youtube.com/user/TerenceMcKennaTube](https://www.youtube.com/user/TerenceMcKennaTube)
@@ -37,6 +42,7 @@ Cílem webu je seznámit čtenáře s celoživotním dílem amerického spisovat
 Design chceme zachovat co nejčistější, barevná paleta bude asi především černobílá a budeme užívat tužkou kreslené ilustrace.
 
 **Základní struktura:**
+
   * biografie
   * knihy
   * myšlenky
