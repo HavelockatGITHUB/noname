@@ -37,17 +37,17 @@ Cílem webu je seznámit čtenáře s celoživotním dílem amerického spisovat
 Design chceme zachovat co nejčistější, barevná paleta bude asi především černobílá a budeme užívat tužkou kreslené ilustrace.
 
 **Základní struktura:**
-  *biografie
-  *knihy
-  *myšlenky
-  *quotes
-  *vyčleněná sekce zabývající se halucinogenními látkami a McKennovým pohledem na ně
-  *eschaton (transcendentální objekt na konci času)
-  *články
-  *videa
-  *audio
-  *galerie
-  *příbuzná témata
+  * biografie
+  * knihy
+  * myšlenky
+  * quotes
+  * vyčleněná sekce zabývající se halucinogenními látkami a McKennovým pohledem na ně
+  * eschaton (transcendentální objekt na konci času)
+  * články
+  * videa
+  * audio
+  * galerie
+  * příbuzná témata
 
 **Strategie:**
 Zezačátku půjde hlavně o zveřejňování krátkých videí s českými titulky, především výstřižků z přednášek podkreslených kynetickou tipografií. Později se budeme zaměřovat i na překlady článků, vkládání abstraktů z knih atd.
